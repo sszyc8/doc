@@ -1,9 +1,11 @@
 ---
 title: Keycloak
 description: Authentication Module
-published: true
-date: 2021-09-15T07:49:57.150Z
+published: 1
+date: 2024-07-29T07:27:09.807Z
 tags: auth, module
+editor: markdown
+dateCreated: 2024-07-29T06:58:41.374Z
 ---
 
 # Keycloak

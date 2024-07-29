@@ -1,9 +1,11 @@
 ---
 title: Okta
 description: Authentication Module
-published: true
-date: 2019-11-14T23:31:19.440Z
+published: 1
+date: 2024-07-29T07:27:11.649Z
 tags: auth, module
+editor: markdown
+dateCreated: 2024-07-29T06:58:44.118Z
 ---
 
 Okta provide secure identity management and single sign-on to any application.

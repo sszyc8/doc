@@ -1,9 +1,11 @@
 ---
 title: Local
 description: Authentication Module
-published: true
-date: 2019-09-15T02:40:22.142Z
+published: 1
+date: 2024-07-29T07:27:11.034Z
 tags: 
+editor: markdown
+dateCreated: 2024-07-29T06:58:43.197Z
 ---
 
 This is the default, built-in authentication module for Wiki.js.

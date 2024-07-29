@@ -1,10 +1,11 @@
 ---
 title: SAML
 description: Authentication Module
-published: true
-date: 2020-08-22T03:51:08.646Z
+published: 1
+date: 2024-07-29T07:27:12.245Z
 tags: auth, module
 editor: markdown
+dateCreated: 2024-07-29T06:58:45.031Z
 ---
 
 This module is using the [passport-saml](https://github.com/node-saml/passport-saml) package as-is.

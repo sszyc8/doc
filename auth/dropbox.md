@@ -1,9 +1,11 @@
 ---
 title: Dropbox
 description: Authentication Module
-published: true
-date: 2019-12-25T21:17:17.481Z
+published: 1
+date: 2024-07-29T07:27:07.972Z
 tags: auth, module
+editor: markdown
+dateCreated: 2024-07-29T06:58:38.582Z
 ---
 
 Dropbox is a file hosting service that offers cloud storage, file synchronization, personal cloud, and client software.

@@ -1,11 +1,11 @@
 ---
 title: Azure Active Directory
 description: Authentication Module
-published: true
-date: 2022-08-31T17:01:57.649Z
+published: 1
+date: 2024-07-29T07:27:06.734Z
 tags: auth, module
 editor: markdown
-dateCreated: 2019-07-20T15:31:49.465Z
+dateCreated: 2024-07-29T06:58:36.719Z
 ---
 
 [Azure Active Directory (Azure AD)](https://azure.microsoft.com/en-ca/services/active-directory/) is Microsoft’s cloud-based identity and access management service, which helps your employee's sign in and access resources.

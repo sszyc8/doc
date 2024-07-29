@@ -1,9 +1,11 @@
 ---
 title: Google
 description: Authentication Module
-published: true
-date: 2019-09-14T23:12:15.831Z
+published: 1
+date: 2024-07-29T07:27:09.196Z
 tags: 
+editor: markdown
+dateCreated: 2024-07-29T06:58:40.446Z
 ---
 
 Google specializes in Internet-related services and products, which include online advertising technologies, search engine, cloud computing, software, and hardware.

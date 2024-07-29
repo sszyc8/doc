@@ -1,10 +1,11 @@
 ---
 title: LDAP / Active Directory
 description: Authentication Module
-published: true
-date: 2020-06-12T20:34:21.239Z
+published: 1
+date: 2024-07-29T07:27:10.420Z
 tags: auth, module
 editor: markdown
+dateCreated: 2024-07-29T06:58:42.293Z
 ---
 
 LDAP / Active Directory is an enterprise authentication solution developed by Microsoft.

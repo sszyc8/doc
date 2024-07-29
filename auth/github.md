@@ -1,9 +1,11 @@
 ---
 title: GitHub
 description: Authentication Module
-published: true
-date: 2019-11-14T22:58:00.798Z
+published: 1
+date: 2024-07-29T07:27:08.585Z
 tags: auth, module
+editor: markdown
+dateCreated: 2024-07-29T06:58:39.502Z
 ---
 
 GitHub Inc. is a web-based hosting service for version control using Git.

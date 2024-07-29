@@ -1,9 +1,11 @@
 ---
 title: Slack
 description: Authentication Module
-published: true
-date: 2019-10-05T03:48:02.570Z
+published: 1
+date: 2024-07-29T07:27:12.867Z
 tags: 
+editor: markdown
+dateCreated: 2024-07-29T06:58:45.959Z
 ---
 
 Slack is a cloud-based set of proprietary team collaboration tools and services.

@@ -1,9 +1,11 @@
 ---
 title: Auth0
 description: Authentication Module
-published: true
-date: 2019-09-15T02:38:37.784Z
+published: 1
+date: 2024-07-29T07:27:06.111Z
 tags: 
+editor: markdown
+dateCreated: 2024-07-29T06:58:35.765Z
 ---
 
 Auth0 is a popular cloud service for managing authentication across your applications.

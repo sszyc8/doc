@@ -1,9 +1,11 @@
 ---
 title: Discord
 description: Authentication Module
-published: true
-date: 2019-09-15T02:39:23.450Z
+published: 1
+date: 2024-07-29T07:27:07.351Z
 tags: 
+editor: markdown
+dateCreated: 2024-07-29T06:58:37.647Z
 ---
 
 Discord is a popular gaming communication tool.
